@@ -1,4 +1,4 @@
-The code in this prepository is the the first stage of exploring the fashion mnist dataset using logistic regression.
+The code in this prepository involves in exploring the fashion mnist dataset using Logistic regression.
 
 About Data:
 1) Fashion Mnist dataset is from Zalando. It consists of 60,000 training instances and 10,000 testing instances.
